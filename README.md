@@ -40,25 +40,25 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 
 ### Project Files:
 
-- #### [README](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/README.md)
+- #### [README](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/README.md)
 
-- ####  [Project Proposal](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Predictive%20Maintenance%20Project%20Proposal.pdf)
+- ####  [Project Proposal](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Predictive%20Maintenance%20Project%20Proposal.pdf)
 
-- #### [Data Wrangling](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Data%20Wrangling.ipynb)
+- #### [Data Wrangling](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Data%20Wrangling.ipynb)
 
-- #### [Exploratory Data Analysis](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Exploratory%20Data%20Analysis.ipynb)
+- #### [Exploratory Data Analysis](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Exploratory%20Data%20Analysis.ipynb)
 
-- #### [Regression Modeling](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Regression.ipynb)
+- #### [Regression Modeling](https://github.com/Samimust/predictive-maintenance/blob/main/Model%20Selection%20-%20Regression.ipynb)
 
-- #### [Binary Classification](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
+- #### [Binary Classification](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
 
-- #### [Multiclass Classification](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
+- #### [Multiclass Classification](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
 
-- #### [Final Project Report](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Predictive%20Maintenance%20Project%20Report.pdf)
+- #### [Final Project Report](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Predictive%20Maintenance%20Project%20Report.pdf)
 
-- #### [Project Summary - Slide Decks](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/master/Predictive%20Maintenance%20Project%20Summary.pdf)
+- #### [Project Summary - Slide Decks](https://github.com/Himanshgit5458/PMTimeToFailure-/blob/main/Predictive%20Maintenance%20Project%20Summary.pdf)
 
-- #### [Project Data Folder](https://github.com/Himanshgit5458/PMTimeToFailure-/tree/master/data)
+- #### [Project Data Folder](https://github.com/Himanshgit5458/PMTimeToFailure-/tree/main/data)
 
-- #### [Project Figures Folder](https://github.com/Himanshgit5458/PMTimeToFailure-/tree/master/fig)
+- #### [Project Figures Folder](https://github.com/Himanshgit5458/PMTimeToFailure-/tree/main/fig)
 
